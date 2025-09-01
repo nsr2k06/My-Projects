@@ -21,6 +21,7 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 | **02-Personal-Portfolio**         | A personal website to showcase projects & about me |
 | **03-The-Tribute-Website**       | A styled tribute page for a meaningful person or topic |
 | **04-Calculator**                | A functional calculator built with HTML, CSS, JS |
+| **05-To-Do-App**                | Simple, smart, and efficient task manager.” |
 | *(Add more projects as you create them…)* | |
 
 ---
