@@ -1,15 +1,15 @@
-# 🚀 Projects Repository
+# 🚀 My Projects
 
-Welcome to my **Projects Hub**!  
-This repository is a collection of my coding projects, experiments, and practice apps that I’ve built while learning and exploring different technologies.  
+Welcome to my **My Projects Hub**!  
+This repository is a collection of My Coding Projects, Experiments, and Practice apps that I’ve Built while Learning and Exploring Different Technologies.  
 
 ---
 
 ## 📌 About
-- 🔹 Contains projects from **beginner to advanced** level  
-- 🔹 Covers concepts of **Web Development**  
-- 🔹 Includes **mini projects, practice apps, and hackathon ideas**  
-- 🔹 A showcase of my **coding journey and growth**  
+- 🔹 Contains Projects from **Beginner to Advanced** Level  
+- 🔹 Covers Concepts of **Web Development**  
+- 🔹 Includes **Mini Projects, Practice Apps, and Hackathon Ideas**  
+- 🔹 A showcase of my **Coding Journey and Growth**  
 
 ---
 
