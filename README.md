@@ -6,10 +6,10 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 ---
 
 ## 📌 About
-- 🔹 Contains Projects from **Beginner to Advanced** Level  
-- 🔹 Covers Concepts of **Web Development**  
-- 🔹 Includes **Mini Projects, Practice Apps, and Hackathon Ideas**  
-- 🔹 A showcase of my **Coding Journey and Growth**  
+🔹 Contains Projects from **Beginner to Advanced** Level  
+🔹 Covers Concepts of **Web Development**  
+🔹 Includes **Mini Projects, Practice Apps, and Hackathon Ideas**  
+🔹 A showcase of my **Coding Journey and Growth**  
 
 ---
 
