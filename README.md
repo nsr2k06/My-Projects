@@ -17,11 +17,11 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 
 | Project Name | Description |
 |--------------|-------------|
-| **01-Distraction-Free-Youtube** | A minimalistic view to watch YouTube distraction-free |
-| **02-Personal-Portfolio**         | A personal website to showcase projects & about me |
-| **03-The-Tribute-Website**       | A styled tribute page for a meaningful person or topic |
-| **04-Calculator**                | A functional calculator built with HTML, CSS, JS |
-| **05-To-Do-App**                | Simple, smart, and efficient task manager.” |
+| **Distraction Free Youtube** | Focus on videos only |
+| **Personal Portfolio**         | A personal website to showcase projects & about me |
+| **The Tribute Website**       | A page dedicated to Maharana Pratap. |
+| **Calculator**                | Interactive calculator built with HTML, CSS, and JavaScript |
+| **To Do App**                | Simple, smart, and efficient task manager |
 | *(Add more projects as you create them…)* | |
 
 ---
