@@ -35,7 +35,6 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 ##  Project Highlights
 - **Clear Structure:** Each project resides in its own folder, making navigation and management easy.
 - **Learning Focused:** Projects are intentionally simple—perfect for demonstrating core web development concepts.
-- **Ready for Demo:** Add screenshots or a quick GIF demo to show your projects in action (e.g. calculator UI or tribute page) :contentReference[oaicite:2]{index=2}.
 
 ---
 
