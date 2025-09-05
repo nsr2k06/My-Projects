@@ -22,6 +22,7 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 | **The Tribute Website**       | A page dedicated to Maharana Pratap. |
 | **Calculator**                | Interactive calculator built with HTML, CSS, and JavaScript |
 | **To Do App**                | Simple, smart, and efficient task manager |
+| **Music Player**                | Music demo website with basic audio playback and a clean UI. |
 | *(Add more projects as you create them…)* | |
 
 ---
