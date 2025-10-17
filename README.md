@@ -7,7 +7,7 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 
 ## 📌 About
 🔹 Contains Projects from **Beginner to Advanced** Level  
-🔹 Covers Concepts of **Web Development**  
+🔹 Covers Concepts of **Web Development & Python**  
 🔹 Includes **Mini Projects, Practice Apps, and Hackathon Ideas**  
 🔹 A showcase of my **Coding Journey and Growth**  
 
@@ -23,6 +23,8 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 | **Calculator**                | Interactive calculator built with HTML, CSS, and JavaScript |
 | **To Do App**                | Simple, smart, and efficient task manager |
 | **Music Player**                | Music demo website with basic audio playback and a clean UI. |
+| **QR-Code-Generator**                | Generate QR Code For Links or Texts |
+| **PDF Merger**                | Merge Multiple PDFs into 1 Single PDF |
 | *(Add more projects as you create them…)* | |
 
 ---
