@@ -25,12 +25,13 @@ This repository is a collection of My Coding Projects, Experiments, and Practice
 | **Music Player**                | Music demo website with basic audio playback and a clean UI. |
 | **QR-Code-Generator**                | Generate QR Code For Links or Texts |
 | **PDF Merger**                | Merge Multiple PDFs into 1 Single PDF |
+| **ATM System**                | Simple ATM System in C++ Using OOPs Concept |
 | *(Add more projects as you create them…)* | |
 
 ---
 
 ##  Technologies Used
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, Python, C++
 - **Frameworks/Libraries:** *(e.g. Bootstrap, Tailwind if applicable)*
 - **Tools:** Git, VS Code, Live Server, etc.
 
